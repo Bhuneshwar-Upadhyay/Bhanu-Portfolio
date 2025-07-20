@@ -492,3 +492,6 @@ h1, h2, h3, h4, h5, h6{
         background-image: linear-gradient(to bottom, #000, transparent);
         z-index: 9;
     }
+    .bottom_line svg{
+        width: 1000px;
+    }
